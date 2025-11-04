@@ -4,7 +4,7 @@
 - A note to talk to your partner
 
 ## UI
-- Remove jump button (mobile)
+- Remove jump button
 
 ## Fish puzzle
 - Water is shallow for walking
