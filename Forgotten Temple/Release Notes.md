@@ -1,3 +1,18 @@
+# Release Notes 1.03
+
+## Fish puzzle
+- Fixed issue where players sink to the bottom of the water
+- Fixed Angry Fish nameplate to match other fish nameplates
+
+## Maze puzzle
+- Fixed issue where player can squeeze between bars
+
+
+# Release Notes 1.02
+
+## General
+- Changed the time to night
+
 # Release Notes 1.01
 
 ## General
