@@ -1,3 +1,18 @@
+## 1.06
+
+### Fish puzzle
+- Fixed Angry Fish nameplate to match other fish nameplates
+- Repositioned Stone Mechanism to closer to the gate
+
+### Maze Puzzle
+- Added VFX to items such as the levers 
+- Fixed issue where player can squeeze between bars
+
+
+## 1.05
+Skipped
+
+
 ## 1.04
 
 ### General
